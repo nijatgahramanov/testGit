@@ -7,6 +7,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("test");
         System.out.println("deneme");
-        System.out.println("nijat first commit");
+        System.out.println("nijat second commit");
     }
 }
